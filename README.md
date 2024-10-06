@@ -256,9 +256,11 @@ The localization results are saved in TUM format. You can use the [evo tool](htt
 
 We would like to thank the contributors of the referenced repositories. Please cite our paper if this dataset is useful for your work.
 ## Bibtex
+```
 Chen X, Yu Y. HLE-SLAM: SLAM for overexposed construction environment[C]//ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction. IAARC Publications, 2023, 40: 585-588.
 
 Chen X, Yu Y. An unsupervised low-light image enhancement method for improving V-SLAM localization in uneven low-light construction sites[J]. Automation in Construction, 2024, 162: 105404.
+```
 ## Contact
 If you have any problems with the dataset or software, please open an issue.
 
